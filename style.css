@@ -1,7 +1,7 @@
 /* fonts */
 
 /* variables */
-:roo {
+:root {
     --font-size-big: 25px;
     --font-size-med: 20px;
     --font-size-sml: 16px;
@@ -16,7 +16,7 @@
 
 h1 {
     font-size: var(--font-size-big);
-    color: #000;
+    color: #fff;
     background-color: #f00;
     text-transform: uppercase;
 }
