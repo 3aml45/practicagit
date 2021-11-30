@@ -1,0 +1,15 @@
+/* fonts */
+
+/* variables */
+:roo {
+    --font-size-big: 25px;
+    --font-size-med: 20px;
+    --font-size-sml: 16px;
+}
+
+/* boiled plate set up */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
